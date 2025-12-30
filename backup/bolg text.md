@@ -36,11 +36,15 @@ _**shadowrocket 的话没有资源 放个AppStore的链接吧qwq 需要有外区
 ### AppStore 链接:https://apps.apple.com/sg/app/shadowrocket/id932747118
 
 
+
+
+
 ### pt2 关于如何使用代理软件以进行魔法上网
 
 ### 要使用这些代理软件我们需要一种叫机场的东西 
 
 <img width="1330" height="1182" alt="Image" src="https://github.com/user-attachments/assets/f989f545-04e5-470a-9958-9e5c6730d27b" />
+
 ### 可以自己上网搜索“机场推荐”“老牌机场介绍”之类的关键词就可以找到一大堆机场了
 
 <img width="1865" height="989" alt="Image" src="https://github.com/user-attachments/assets/1302e5f6-5ca4-4326-8b45-0bfc6c4b78d8" />
@@ -57,9 +61,11 @@ _**shadowrocket 的话没有资源 放个AppStore的链接吧qwq 需要有外区
 ### 然后在**_仪表盘_****_首页_**这种类似的名称下可以找类似这种↓
 
 <img width="753" height="682" alt="Image" src="https://github.com/user-attachments/assets/32764bea-05e0-4c3e-8287-8fc0929ffa45" />
-### 然后点击复制链接 在机场的操作就完成了
 
-下一part 再说吧 写累了qwq
+### 根据你用的软件 点击复制链接 在机场的操作就完成了（有些可以做到直接导入 但是要看运气 有些网站可以做到 有些只是摆个架子这样）
+
+
+### 下一part写拿到链接后怎么用 再说吧 写累了qwq
 
 
 
