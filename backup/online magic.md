@@ -4,23 +4,31 @@
 
 <img width="1448" height="346" alt="Image" src="https://github.com/user-attachments/assets/454b017e-96a0-45bf-9eee-ff2bc62bea27" />
 
-- 好吧来正经的
+### - 好吧来正经的
 
 目前比较热门的代理软件有
 
 - **_Clash Verge_**
 
+### 最为方便使用的代理软件
+
 <img width="1162" height="1187" alt="Image" src="https://github.com/user-attachments/assets/c849f65d-d4bf-4562-8f65-29b5d4c5b469" />
 
-同时有Clash Meta for android
+### - **_同时有Clash Meta for android_**
 
 <img width="1842" height="787" alt="Image" src="https://github.com/user-attachments/assets/f0e9cbba-ee58-49f4-ba31-647016230858" />
 
+
 - **_V2rayN_**
+
+### 最geek风的代理软件 用起来比较一般（个人认为）还是喜欢图形化界面啊qwq
 
 <img width="1218" height="860" alt="Image" src="https://github.com/user-attachments/assets/4d8cb66a-59d3-472f-aaa4-aae00480faa6" />
 
 - **_ShadowRocket_**
+
+### 图形化最nb的软件 配上苹果的丝滑动画没的说 虽然软件好软件 但是只支持shadowrocket协议的节点这样 而且只有苹果生态用
+
 <img width="1700" height="1210" alt="Image" src="https://github.com/user-attachments/assets/9319deb8-7f76-4737-b5b2-4af59414eb68" />
 
 ### （shadowrocket一般是苹果用户使用 比其他软件都要方便的多 比如一键导入 自动同步不同设备的代理 可以同步iCloud 但是我找不到Android或者windows版 大概率是没有qwq）
