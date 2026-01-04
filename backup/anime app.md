@@ -9,9 +9,9 @@
 
 ## _原项目链接:https://github.com/Predidit/Kazumi?tab=readme-ov-file_
  
-## 我给的下载地址(◔౪◔):
+## 下载链接(◔౪◔):https://github.com/Predidit/Kazumi/releases/tag/1.9.3
 
-## 使用方法：直接打开看就行 点那些有绿色标志的然后进去加载一会这样
+## 食用方法：直接打开看就行 点那些有绿色标志的然后进去加载一会这样
 
 # NO.2 
 # **_- animeko_** 
