@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Beluga's mystery cave</title><link>https://beluga11716.github.io</link><description>阿梓喵可爱捏 (文件密码均为beluga！！)</description><copyright>Beluga's mystery cave</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/118863839?v=4</url><title>avatar</title><link>https://beluga11716.github.io</link></image><lastBuildDate>Tue, 30 Dec 2025 16:00:04 +0000</lastBuildDate><managingEditor>Beluga's mystery cave</managingEditor><ttl>60</ttl><webMaster>Beluga's mystery cave</webMaster><item><title>anime app</title><link>https://beluga11716.github.io/post/anime%20app.html</link><description># 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Beluga's mystery cave</title><link>https://beluga11716.github.io</link><description>阿梓喵可爱捏 (文件密码均为beluga！！)</description><copyright>Beluga's mystery cave</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/118863839?v=4</url><title>avatar</title><link>https://beluga11716.github.io</link></image><lastBuildDate>Sun, 04 Jan 2026 09:15:08 +0000</lastBuildDate><managingEditor>Beluga's mystery cave</managingEditor><ttl>60</ttl><webMaster>Beluga's mystery cave</webMaster><item><title>anime app</title><link>https://beluga11716.github.io/post/anime%20app.html</link><description># 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率
 
 &gt; &lt;img width='345' height='323' alt='Image' src='https://github.com/user-attachments/assets/1b353f5a-41c3-4e4b-a3ba-85d31d4c654b' /&gt;
 
@@ -13,15 +13,15 @@
 
 _________
 # 使用方法：直接打开看就行 点那些有绿色标志的然后进去加载一会这样
-。</description><guid isPermaLink="true">https://beluga11716.github.io/post/anime%20app.html</guid><pubDate>Tue, 30 Dec 2025 15:59:32 +0000</pubDate></item><item><title>comic App</title><link>https://beluga11716.github.io/post/comic%20App.html</link><description>### 主要是动漫和漫画 后面应该我会单独出一趴关于电影影视剧的
+。</description><guid isPermaLink="true">https://beluga11716.github.io/post/anime%20app.html</guid><pubDate>Tue, 30 Dec 2025 15:59:32 +0000</pubDate></item><item><title>comic App</title><link>https://beluga11716.github.io/post/comic%20App.html</link><description># 后面可能出一趴影视剧的
 
-# 🥇 
+# NO.1
 # **_- Venera_**  
 
 &lt;img width='178' height='78' alt='Image' src='https://github.com/user-attachments/assets/cc684bdd-ccf7-4c49-bdbe-807139f9f700' /&gt;
 
 ### 这个是用来看漫画的 源是用的js编写的漫画库
-### 好的是venera有自己建一些库 当然你也可以自己添加 _我不会就对了:(_ 
+### 好的是venera有自己建一些库 当然你也可以自己添加自己的 （~~其实是有教程的 但我看不懂~~）  _我不会就对了:(_ 
 
 &lt;img width='600' height='600' alt='Image' src='https://github.com/user-attachments/assets/fe9e6f7f-368e-4a85-bc7c-3b6be62dca89' /&gt;
 
@@ -29,13 +29,41 @@ _________
 
 &gt; source链接在这：https://git.nyne.dev/nyne/venera-configs/raw/branch/main/index.json
 
-### 软件原地址是这个：https://github.com/venera-app/venera/releases/tag/v1.6.1
-### comic_source :https://github.com/venera-app/venera/blob/master/doc/comic_source.md
+### 下载到软件之后在主页→漫画源 在有url字样的框框里粘贴上面的source链接 导入后等一会应该就可以用了
 ###  用魔法的话应该比较好下 （当然裸连说不定也行 看运气 github一时可裸连一时不行的）
-### 下载到软件之后在主页→漫画源 在有url字样的框框里粘贴上面那个source链接 导入后等一会应该就可以用了
 ### 大概就这样 然后就和正常使用漫画软件那样就行 不过有些源是eh和紳士漫畫的 可以看到瑟瑟 但是正常会加载不出 搭配魔法食用喵~o( =∩ω∩= )m
+### 软件原地址是这个：https://github.com/venera-app/venera/releases/tag/v1.6.1
+### comic_source原仓库地址 :https://github.com/venera-app/venera/blob/master/doc/comic_source.md
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
 
+# 2026.1.4
 
+## 今天搞了一下云同步的问题 确实有手机看完之后换设备观看会有不同步要自己手动翻到对应页面的问题 比较麻烦
+## 我们这时候就需要一个支持webdav的网盘 （说实话我没找到真正好用的(´◓Д◔`)）但是还是给一个自己在用的
+
+&lt;img width='600' height='600' alt='Image' src='https://github.com/user-attachments/assets/23275747-608e-4730-98a2-ccd8b7cb9885' /&gt;
+
+## 这个是infiniclould 链接：https://infini-cloud.net/en/index.html
+## 注册登录后会送20g的免费云盘空间
+
+&lt;img width='600' height='249' alt='Image' src='https://github.com/user-attachments/assets/5731e586-427b-41aa-930e-ed47d3415827' /&gt;
+
+## 然后我们在my page的页面往下翻 会看到一个关于 **_链接第三方app_** 的选项 把它勾选 等一会 就能看到类似这样的画面内容
+
+&lt;img width='600' height='526' alt='Image' src='https://github.com/user-attachments/assets/247f7e33-5010-4a5d-82b7-f664b95a7ee1' /&gt;
+
+我们记住这三个内容
+接着打开venera 在右上角设置→应用→数据同步 然后就能看到
+
+&lt;img width='344' height='595' alt='Image' src='https://github.com/user-attachments/assets/ea79cb54-5352-4c5a-95f5-d1eda1d4a682' /&gt;
+
+## ~~_**我服了怎么这么糊 傻逼快速截图**_~~
+
+## 把上面在mypage那里infiniclould分配的密码和网址填进去 （跳过设置项不填）接着点击继续就行 
+## 然后在别的设备上也是同样的操作 就可以实现云同步功能
+## 但是我说实话 不是很好用其实 ~~可能这个云比较小众？或者是国外网盘的原因？~~ 反正应该找一下支持webdav的国产网盘 ## 在网上搜一可能有 没研究明白 下次再说 (´・ω・)つ旦
 
 
 。</description><guid isPermaLink="true">https://beluga11716.github.io/post/comic%20App.html</guid><pubDate>Tue, 30 Dec 2025 12:56:36 +0000</pubDate></item><item><title>删的一干二净的软件awa</title><link>https://beluga11716.github.io/post/shan-de-yi-gan-er-jing-de-ruan-jian-awa.html</link><description>&gt; **_geek uninstaller_**
