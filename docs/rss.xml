@@ -1,5 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Beluga's mystery cave</title><link>https://beluga11716.github.io</link><description>阿梓喵可爱捏 (文件密码均为beluga！！)图片加载不出来就用魔法 毕竟这blog是挂载在github上的 卡顿确实是有的</description><copyright>Beluga's mystery cave</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/118863839?v=4</url><title>avatar</title><link>https://beluga11716.github.io</link></image><lastBuildDate>Sun, 04 Jan 2026 16:34:25 +0000</lastBuildDate><managingEditor>Beluga's mystery cave</managingEditor><ttl>60</ttl><webMaster>Beluga's mystery cave</webMaster><item><title>anime app</title><link>https://beluga11716.github.io/post/anime%20app.html</link><description># NO.1
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Beluga's mystery cave</title><link>https://beluga11716.github.io</link><description>阿梓喵可爱捏 (文件密码均为beluga！！)图片加载不出来就用魔法 毕竟这blog是挂载在github上的 卡顿确实是有的</description><copyright>Beluga's mystery cave</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/118863839?v=4</url><title>avatar</title><link>https://beluga11716.github.io</link></image><lastBuildDate>Sun, 04 Jan 2026 16:51:26 +0000</lastBuildDate><managingEditor>Beluga's mystery cave</managingEditor><ttl>60</ttl><webMaster>Beluga's mystery cave</webMaster><item><title>tubatools</title><link>https://beluga11716.github.io/post/tubatools.html</link><description># 图吧工具箱
+
+## 互联网精神的集中体现 无广告 免费 提供大量的问题解决型app和测试app
+
+## 官网下载页：https://www.tbtool.cn/download/index.html?t=1767545193711
+
+## 点立即下载就行 下载好后解压直接运行最新版那个就行
+
+### 就连下载页也要塞一些功能么 哈基图你这家伙
+
+### ~~后面可能会写一篇关于图吧工具箱的intro？~~
+。</description><guid isPermaLink="true">https://beluga11716.github.io/post/tubatools.html</guid><pubDate>Sun, 04 Jan 2026 16:50:57 +0000</pubDate></item><item><title>anime app</title><link>https://beluga11716.github.io/post/anime%20app.html</link><description># NO.1
 
 ## 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率
 
