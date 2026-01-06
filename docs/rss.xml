@@ -1,5 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Beluga's mystery cave</title><link>https://beluga11716.github.io</link><description>阿梓喵可爱捏 (文件密码均为beluga！！)图片加载不出来就用魔法 毕竟这blog是挂载在github上的 卡顿确实是有的</description><copyright>Beluga's mystery cave</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/118863839?v=4</url><title>avatar</title><link>https://beluga11716.github.io</link></image><lastBuildDate>Tue, 06 Jan 2026 05:14:09 +0000</lastBuildDate><managingEditor>Beluga's mystery cave</managingEditor><ttl>60</ttl><webMaster>Beluga's mystery cave</webMaster><item><title>Magic Internet Pt.3</title><link>https://beluga11716.github.io/post/Magic%20Internet%20Pt.3.html</link><description>## 2026.1.6
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Beluga's mystery cave</title><link>https://beluga11716.github.io</link><description>阿梓喵可爱捏 (文件密码均为beluga！！)图片加载不出来就用魔法 毕竟这blog是挂载在github上的 卡顿确实是有的</description><copyright>Beluga's mystery cave</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/118863839?v=4</url><title>avatar</title><link>https://beluga11716.github.io</link></image><lastBuildDate>Tue, 06 Jan 2026 05:56:11 +0000</lastBuildDate><managingEditor>Beluga's mystery cave</managingEditor><ttl>60</ttl><webMaster>Beluga's mystery cave</webMaster><item><title>install Trollstore</title><link>https://beluga11716.github.io/post/install%20Trollstore.html</link><description># 苹果ipa自签名应用巨魔商店 让你的ipa应用能够安装在设备上 永久签名
+
+## 这里我用的是TrollRestore来安装 链接放下面了 下载后 先把你的设备接到电脑上 电脑提示已连接你的设备后 点开 TrollRestore.exe
+
+&lt;img width='600' height='927' alt='Image' src='https://github.com/user-attachments/assets/4fc961bb-26cb-4ed8-869a-a98d4c79455c' /&gt;
+
+
+## 出现这个界面然后输入：Tips （直接复制粘贴）
+## 这时候程序会出现
+
+&lt;img width='1734' height='927' alt='Image' src='https://github.com/user-attachments/assets/9b621c88-05c9-4be1-9e5e-ce14503108b8' /&gt;
+
+# 而你的设备会重启 重启完成之后 点开你的提示软件
+
+&lt;img width='222' height='250' alt='Image' src='https://github.com/user-attachments/assets/20321adf-8f45-418d-80a1-91c70b17d706' /&gt;
+
+&lt;br&gt;
+
+# 然后出现这个画面↓
+&lt;img width='600' height='600' alt='Image' src='https://github.com/user-attachments/assets/c99399b7-4fe0-4bd5-b85c-7283097056a0' /&gt;
+
+# 点Install TrollStore （记得挂梯子 用ShadowRokect 不然会连接失败这样）
+## 如果正常完成了 设备会再一次重启 然后你的桌面上就会有TrollStore了
+## ~~**_btw这图标真的诡异(´◓Д◔`)_**~~
+
+# 使用就比较简单 下载一个ipa程序后选择用巨魔商店打开就行 它会问你要不要下载 直接install就行 然后你就成功安装了想要的app 并且是永久自签的
+# TrollRestore.exe 链接：https://wwbaq.lanzouu.com/ikbNE3ff7dsh。</description><guid isPermaLink="true">https://beluga11716.github.io/post/install%20Trollstore.html</guid><pubDate>Tue, 06 Jan 2026 05:55:41 +0000</pubDate></item><item><title>Magic Internet Pt.3</title><link>https://beluga11716.github.io/post/Magic%20Internet%20Pt.3.html</link><description>## 2026.1.6
 # _神明降临 （来补PT3噜）_
  
 # PT.3 不同代理的使用方法
