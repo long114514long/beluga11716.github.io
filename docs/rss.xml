@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Beluga's mystery cave</title><link>https://beluga11716.github.io</link><description>阿梓喵可爱捏 (文件密码均为beluga！！)图片加载不出来就用魔法 毕竟这blog是挂载在github上的 卡顿确实是有的</description><copyright>Beluga's mystery cave</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/118863839?v=4</url><title>avatar</title><link>https://beluga11716.github.io</link></image><lastBuildDate>Tue, 06 Jan 2026 05:09:52 +0000</lastBuildDate><managingEditor>Beluga's mystery cave</managingEditor><ttl>60</ttl><webMaster>Beluga's mystery cave</webMaster><item><title>magic internet Pt.2</title><link>https://beluga11716.github.io/post/magic%20internet%20Pt.2.html</link><description># **Pt2 关于如何使用代理软件以进行魔法上网**
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Beluga's mystery cave</title><link>https://beluga11716.github.io</link><description>阿梓喵可爱捏 (文件密码均为beluga！！)图片加载不出来就用魔法 毕竟这blog是挂载在github上的 卡顿确实是有的</description><copyright>Beluga's mystery cave</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/118863839?v=4</url><title>avatar</title><link>https://beluga11716.github.io</link></image><lastBuildDate>Tue, 06 Jan 2026 05:12:42 +0000</lastBuildDate><managingEditor>Beluga's mystery cave</managingEditor><ttl>60</ttl><webMaster>Beluga's mystery cave</webMaster><item><title>magic internet Pt.2</title><link>https://beluga11716.github.io/post/magic%20internet%20Pt.2.html</link><description># **Pt2 关于如何使用代理软件以进行魔法上网**
 
 ### 要使用这些代理软件我们需要一种叫机场的东西 
 
@@ -144,7 +144,9 @@
 
 链接：https://wwbaq.lanzouu.com/iaqYV3eu8uef
 **_密码beluga_**
-。</description><guid isPermaLink="true">https://beluga11716.github.io/post/Completely%20uninstall%20app%20awa.html</guid><pubDate>Tue, 30 Dec 2025 08:46:25 +0000</pubDate></item><item><title>Magic Internet Pt.1</title><link>https://beluga11716.github.io/post/Magic%20Internet%20Pt.1.html</link><description>### **_一篇关于我目前了解的关于魔法上网的笔记_**
+。</description><guid isPermaLink="true">https://beluga11716.github.io/post/Completely%20uninstall%20app%20awa.html</guid><pubDate>Tue, 30 Dec 2025 08:46:25 +0000</pubDate></item><item><title>Magic Internet Pt.1</title><link>https://beluga11716.github.io/post/Magic%20Internet%20Pt.1.html</link><description>~~**_（别问为啥title是magic Internet 因为google translate 翻译魔法上网就是这个）_**~~
+
+# **_一篇关于我目前了解的关于魔法上网的笔记_**
 
 ## 分成三part来看吧 （现在这篇是第一part 后面应该写个导航这样？）
 
@@ -194,64 +196,8 @@
 ### V2rayN 下载地址:https://wwbaq.lanzouu.com/izTXx3euhpch
 _**shadowrocket 的话没有资源 放个AppStore的链接吧qwq 需要有外区apple account才能使用**_
 ### AppStore 链接:https://apps.apple.com/sg/app/shadowrocket/id932747118
-&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
 
 
 
-## 2026.1.6
-_神明降临 （来补PT3噜）_
- 
-# PT.3 不同代理的使用方法
 
-## 先来clash for andriod的吧
-## 
-
-&lt;img width='320' height='427' alt='Image' src='https://github.com/user-attachments/assets/ef945334-23e7-4d16-9cdb-cbc97307a55f' /&gt;
-
-## 进到页面如上
-## 点击配置→右上角加号→从url导入→把链接复制进来→直接保存 回到主页面点击启动 第一次的话同意使用vpn即可
-## 然后直接在主页面点击启动就可以用了 
-&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-
-## Clash for Windows就和上面差不多
-
-&lt;img width='600' height='600' alt='Image' src='https://github.com/user-attachments/assets/ae170af5-8971-4066-ac94-922cbcc96069' /&gt;
-
-# 在订阅那一栏导入url 确定之后在右下角小箭头那里点开
-
-&lt;img width='379' height='286' alt='Image' src='https://github.com/user-attachments/assets/64434dbb-435a-4790-9b40-a158c0613c16' /&gt;
-
-&lt;img width='367' height='539' alt='Image' src='https://github.com/user-attachments/assets/ddbcd44a-180b-467e-b983-b022aaa25894' /&gt;
-
-## 对那个小猫的图案右键 选择系统代理即可使用 clash会变成红色的↓
-
-&lt;img width='73' height='65' alt='Image' src='https://github.com/user-attachments/assets/36a4c5f8-451c-462f-aa63-79d3292c76af' /&gt;
-
-## 当你选自动代理的时候会有↓
-
-&lt;img width='600' height='600' alt='Image' src='https://github.com/user-attachments/assets/9643db62-a826-42ce-bdae-07ad3a8d7753' /&gt;
-
-## 直接选允许访问就行
-## 然后继续使用就行(*ﾟ∀ﾟ*)
-
-# - **_ShadowRocket_**
-
-&lt;img width='320' height='427' alt='Image' src='https://github.com/user-attachments/assets/49e1213f-dbcc-43ed-8aa8-4bb95d85d67e' /&gt;
-
-
-# 点击底栏配置选项→点击右上角加号 会进到下面这个页面
-
-&lt;img width='320' height='427' alt='Image' src='https://github.com/user-attachments/assets/fea41a27-83f7-4121-b969-edabe9443757' /&gt;
-
-## 同样粘贴url链接 回到主页后 右上角开关打开 通知栏会出现vpn字样 就可以魔法上网了
-
-## V2ray的话我现在不用了
-## 附一个使用教程在这吧 可以自己研究下 其实也是大差不差
-##  https://v2rayn.com.cn/v2rayn-%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/
 。</description><guid isPermaLink="true">https://beluga11716.github.io/post/Magic%20Internet%20Pt.1.html</guid><pubDate>Mon, 29 Dec 2025 14:49:44 +0000</pubDate></item></channel></rss>
