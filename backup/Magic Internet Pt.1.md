@@ -5,7 +5,7 @@
 ## 分成三part来看吧 （现在这篇是第一part 后面应该写个导航这样？）
 
 # 导航:
-## Pt.1 目前比较热门的代理软件 <就是现在这个页面啊混蛋>
+## Pt.1 目前比较热门的代理软件 <~~就是现在这个页面啊混蛋~~>
 ## [Pt.2关于如何使用代理软件以进行魔法上网](https://blog.superbeluga.top/post/magic%20internet%20Pt.2.html)
 ## [Pt.3不同代理的使用方法](https://blog.superbeluga.top/post/Magic%20Internet%20Pt.3.html)
 
